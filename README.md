@@ -1,1 +1,1 @@
-# yazlabProje
+# Türk Dili Lehçeleri Sınıflandırması
